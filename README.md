@@ -1,10 +1,10 @@
 <h1>ABOUT ME</h1>
     <br>
-    <p>Me encanta la programación, el desarrollo personal y la tecnología. Mis conocimientos y habilidades apuntan al Desarrollo Web Full-Stack.</p>
+    <p>I love programming, personal development and technology. My knowledge and skills point to Full-Stack Web Development.</p>
     <br>
-    <p>Estoy interesado en conocer y trabajar con personas que se esfuerzan en ser mejores en su trabajo. Deseo y me esfuerzo en seguir aprendiendo para poder crecer como profesional y persona…</p>
+    <p>I am interested in meeting and working with people who strive to be better at their jobs. I wish and strive to continue learning so I can grow as a professional and person...</p>
     <br>
-    <p>Sigue luchando por tus sueños, y que tengas un buen día.</p>
+    <p>Keep fighting for your dreams, and have a good day.</p>
     <h1>SKILLS</h1>
     <p align="center">
   <a href="https://skillicons.dev">
