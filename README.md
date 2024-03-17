@@ -7,6 +7,6 @@
 <h1>SKILLS</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,expressjs,npm,gulp,babel,pug,tailwindcss,bootstrap,react,angular,vite,nextjs,astro,git,github,docker,mysql,postgres,sqlite,mongodb,figma,vscode,debian,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,expressjs,npm,gulp,babel,pug,tailwindcss,bootstrap,angular,react,vite,nextjs,astro,git,github,docker,mysql,postgres,sqlite,mongodb,figma,vscode,debian,linux,windows" />
   </a>
 </p>
